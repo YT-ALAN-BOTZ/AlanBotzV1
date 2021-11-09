@@ -66,7 +66,7 @@ ke = '```'
 pathImg = setting.pathImg
 ownerNomor = [`${setting.ownerNumber}`]
 ownerName = setting.ownerName
-rply = '_Made with GuraBot~_'
+rply = '_Made with AlanBot~_'
 tamnel = fs.readFileSync('./media/gura.jpeg')
 
 
